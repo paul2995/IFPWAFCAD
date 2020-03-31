@@ -9,7 +9,7 @@
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
     <resource-ref>
-        <description>jdbc:mysql://127.0.0.1:3306/MyNewDatabase</description>
+        <description>jdbc:mysql://aa1wdcll7x9q8qo.cjcwd5rxmqwk.us-east-2.rds.amazonaws.com:3306/MyNewDatabase</description>
         <res-ref-name>jdbc/IFPWAFCAD</res-ref-name>
         <res-type>javax.sql.ConnectionPoolDataSource</res-type>
         <res-auth>Container</res-auth>
